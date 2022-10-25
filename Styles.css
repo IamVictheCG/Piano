@@ -22,8 +22,12 @@ html {
 }
 
 .key {
-    background-color: ffffff;
+    background-color: #701313;
     position: relative;
     width: 41px;
     height: 175px;
+    margin: 2px;
+    display: flex;
+    
+    /* float: left; */
 }
