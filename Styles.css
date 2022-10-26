@@ -71,7 +71,7 @@ html {
 @media (min-width: 769px) and (max-width: 1199px) {
     #piano {
         width: 675px;
-        padding: 5% 20px 16% 20px;
+        padding: 9% 20px 16% 20px;
     }
 
     .keys {
