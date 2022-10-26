@@ -22,12 +22,21 @@ html {
 }
 
 .key {
-    background-color: #701313;
+    background-color: #d6c5c5;
     position: relative;
     width: 41px;
     height: 175px;
     margin: 2px;
     display: flex;
-    
-    /* float: left; */
+    flex-direction: row;
+    float: left;
+}
+
+.key.black--key::after {
+    background-color:  #1d1e22;
+    content: "";
+    position: absolute;
+    left: -18px;
+    width: 32px;
+    height: 100px;
 }
