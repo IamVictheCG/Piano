@@ -47,7 +47,7 @@ html {
 }
 
 .logo {
-    color: aqua;
+    color: rgb(0, 255, 221);
     position: absolute;
     width: fit-content;
     top: 23px;
