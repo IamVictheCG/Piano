@@ -36,6 +36,8 @@ html {
     float: left;
 }
 
+.key
+
 .key.black--key::after {
     background-color:  #1d1e22;
     content: "";
